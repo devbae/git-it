@@ -20,6 +20,6 @@ Author: Aashish Kumar\
 Connect with Aashish:
 
 Github - [aashish-ak](https://github.com/aashish-ak)\
-Linkedin - [Aashish](https://www.linkedin.com/in/aashish-kumar-159715129/)\
+Linkedin - [Aashish Kumar](https://www.linkedin.com/in/aashish-kumar-159715129/)\
 Instagram - [main.whi.hoon](https://www.instagram.com/main.whi.hoon)\
 Email - aashish.kumar@devbae.tech
